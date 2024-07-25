@@ -1,0 +1,4 @@
+1. criu form this link: https://launchpad.net/~criu/+archive/ubuntu/ppa
+2. rsync v3.2 from this link: https://askubuntu.com/questions/1389729/install-latest-version-of-rsync-3-2-3-on-ubuntu-18-04
+3. ssh enabled root login: https://linuxconfig.org/allow-ssh-root-login-on-ubuntu-20-04-focal-fossa-linux
+4. sshpass: https://zoomadmin.com/HowToInstall/UbuntuPackage/sshpass
