@@ -1,1 +1,5 @@
 # Process-Level-Task-Offloading
+
+# Abstract
+
+With the development of edge cloud infrastructures and the Internet of Things, and the increasing demands of applications for hardware resources, task offloading has gained more attention than ever before. Various approaches for task offloading have been proposed in the past, each of which, due to certain limitations, failed to achieve expected development. In this project, a task offloading system with a process-level offloading approach (using CRIU tool) has been developed to address some of the limitations of previous methods. In this approach, processes that need to be offloaded are suspended on the source computer, transferred to the destination computer, executed there and eventually returned to the source computer upon completion. This system has demonstrated promissing performance in evaluations using standard benchmark programs, and in the best case, the overall execution time of one of the benchmark programs was reduced by 87% using this system. By addressing some of the limitations of this offloading system, proper development can be expected. 
